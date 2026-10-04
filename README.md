@@ -1,3 +1,11 @@
+> [!WARNING]
+> **SF4Enhanced is no longer maintained**, and this repository is archived. The public
+> lobby servers are shut down, so the downloads here can no longer find a match on their own.
+>
+> The last build (1.2.0) and the source code are at
+> [fabeloper/sf4e](https://github.com/fabeloper/sf4e/releases/tag/v1.2.0). For rollback netplay in
+> Ultra Street Fighter IV, use [SF4 Ember Netplay](https://github.com/Confetti3/SF4-Ember-Netplay).
+
 # SF4Enhanced
 
 **Rollback netcode for Ultra Street Fighter IV (Steam).**
